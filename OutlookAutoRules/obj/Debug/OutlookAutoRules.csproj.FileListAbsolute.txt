@@ -1,0 +1,13 @@
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\bin\Debug\OutlookAutoRules.dll
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\bin\Debug\OutlookAutoRules.pdb
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\bin\Debug\OutlookAutoRules.dll.manifest
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\bin\Debug\OutlookAutoRules.vsto
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\obj\Debug\OutlookAutoRules.Properties.Resources.resources
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\obj\Debug\OutlookAutoRules.dll
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\obj\Debug\OutlookAutoRules.pdb
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\obj\Debug\OutlookAutoRules.csproj.GenerateResource.Cache
+D:\Developement\C#\OutlookAutoRules\OutlookAutoRules\obj\Debug\OutlookAutoRules.csprojResolveAssemblyReference.cache
